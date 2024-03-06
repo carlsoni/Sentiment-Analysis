@@ -1,0 +1,16 @@
+I think preview is a terrible app because it has a lot of multimedia 
+    functionality, however it is not very intuitive to use.  Adding something like 
+    an electronic signature is difficult to do because it requires toggling into a 
+    different toolbar.  Adding something like a textbox is equally difficult.  This 
+    application is mainly meant to view and markup pictures/PDFs, but it almost 
+    entirely focuses on the viewing of pictures.  The app effectively makes the 
+    program a single media application, when it holds more functionality.  
+    Additionally, the markup can often look somewhat childish.  If I want to look at,
+    fill out, and sign an official document, I am reluctant to do this on preview 
+    because it will not look professional.  This really seems to go against the 
+    intent of the app, it essentially makes me want to just use adobe acrobat.  At 
+    the same time, preview feels a bit unprofessional, but it doesn’t allow for some 
+    of the fun manipulations that Microsoft Paint would allow.  So I have an app 
+    that has some characteristics of a professional app, and some of a fun markup app,
+    but I am left with the worst of both worlds.  This ultimately castrates the 
+    multimedia app, limiting it to an image viewing app.

@@ -1,0 +1,16 @@
+The actual concept behind Snapchat (a social media application that deletes
+users' posts after the intended viewer has seen it) is actual very good.
+However, the implementation is awful. One of my biggest issues with the app is
+that it constantly crashes. Every day that I use it (I only continue to use it
+because my friends do), I'll get a few messages sent and received and then it
+will bug out and crash. In addition, sometimes it won't recognize my camera, and
+when that happens, I'm forced to restart the phone. This wouldn't be that big of
+an issue if the creators were constantly working on fixing it. However, instead
+of focusing on the user experience, they focus on how to make the app more and
+more profitable with each update. Whether it be advertisement filters that you
+can add to messages or sponsored news content, it seems like they do not have
+the user in mind. In the end, I understand that the app needs to profitable in
+order for the company to survive. However, in the app's current state, if a
+viable competitor were to be released to the market, I would immediately switch
+to that app because it would probably be a less buggy and more enjoyable
+experience.

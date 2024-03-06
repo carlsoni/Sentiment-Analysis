@@ -1,0 +1,9 @@
+Honestly WMP isn't that bad of an application for playing music/video files, but it looks terrible, isn't compatible with many
+		popular file types and codecs (without user intervention) and stretches itself too thin. As far as I know it's capable of a lot
+		more than just basic playback and media burning, but I have no desire to find out what those things are. Everything it does,
+		VLC does better using less resources and supporting open source development. It's hard to justify using it over anything else other
+		than being ignorant of other options, and that's not a good excuse. I mentioned above, not a big fan of Apple but I respect their success
+		and as god awful as iTunes is I haven't opened WMP on purpose even once since I installed it. Again, it comes down to convenience,
+		as despite the features Apple has added to iTunes over the years the interface has stayed clean and tidy for the average user and it
+		already holds 99% of what I want to listen to with Apple Music. It's preferable to me to use VLC for video and iTunes for music than
+		to use WMP for anything. It's just a slow, bothersome hassle that's completely unnecessary.
